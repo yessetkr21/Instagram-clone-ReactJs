@@ -1,4 +1,4 @@
-📸 Instagram Frontend Clone
+# 📸 Instagram Frontend Clone
 Es una aplicación frontend moderna desarrollada con React y Tailwind CSS, que emula las principales funcionalidades de la interfaz de usuario de Instagram. El proyecto busca replicar una experiencia visual atractiva y responsiva, ideal para prácticas de desarrollo frontend o para integrar con un backend personalizado.
 
 🧪 Tech Stack
