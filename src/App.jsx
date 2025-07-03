@@ -15,7 +15,7 @@ const App = () => {
   const [posts, setPosts] = useState([
     {
       id: 1,
-      username: 'fotografo_pro',
+      username: 'Andres_Cadavid',
       userAvatar: 'https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face',
       image: 'https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop',
       caption: 'Hermoso atardecer en la montaña 🌅',
@@ -29,7 +29,7 @@ const App = () => {
     },
     {
       id: 2,
-      username: 'chef',
+      username: 'chef_juan',
       userAvatar: 'https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face',
       image: 'https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?q=80&w=1176&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
       caption: 'Pizza casera perfecta 🍕 Receta en mi bio!',
@@ -61,7 +61,7 @@ const App = () => {
             ...post,
             comments: [...post.comments, {
               id: Date.now(),
-              username: 'tu_usuario',
+              username: 'Yr211404',
               text: commentText
             }]
           }
