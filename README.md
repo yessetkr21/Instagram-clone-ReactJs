@@ -37,6 +37,9 @@ npm install
 npm run dev
 👨‍💻 Autor
 Yessetk R.
+# Imagenes del proyecto 
+![image](https://github.com/user-attachments/assets/986f3515-d27e-4e9a-816c-d232a8735f0f)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
