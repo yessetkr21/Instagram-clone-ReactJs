@@ -28,7 +28,7 @@ Es una aplicación frontend moderna desarrollada con React y Tailwind CSS, que e
 # 🚀 Instalación y Ejecución Local
 # 1. Clona el repositorio
 git clone https://github.com/yessetkr21/Instagram-clone-ReactJs
-cd instaclone
+cd Instagram-clone-ReactJs
 
 # 2. Instala dependencias
 npm install
